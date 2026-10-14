@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Funly.API/Funly.API.csproj" />
+  <Project Path="Funly.Application/Funly.Application.csproj" />
+  <Project Path="Funly.Domain/Funly.Domain.csproj" />
+  <Project Path="Funly.Infrastructure/Funly.Infrastructure.csproj" />
+</Solution>
